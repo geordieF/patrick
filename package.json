@@ -1,0 +1,14 @@
+{
+  "name": "patrick",
+  "description": "A simple code playground",
+  "author": "Geordie Fischer<mrpyber@outlook.com>",
+  "license": "MIT",
+  "repositiory": "/home/zsty/Projects/patrick",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-subdomain": "^1.0.5",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.0-beta9"
+  }
+}
